@@ -5,7 +5,7 @@ import com.frank.design.prototype.demo.ConcretePrototype1;
 import javax.print.attribute.standard.MediaSizeName;
 
 /**
- * @AUTHOR:bsnpc1o
+ * @AUTHOR:Frank
  * @DATE:08/24/2018
  */
 public class Client {

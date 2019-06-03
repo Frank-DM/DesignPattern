@@ -5,7 +5,7 @@ import java.util.Scanner;
 /**
  * Calculate screen to result
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/02/2018
  */
 public class CalcScreen {

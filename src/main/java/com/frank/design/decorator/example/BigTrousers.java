@@ -2,7 +2,7 @@ package com.frank.design.decorator.example;
 
 /**
  * Concrete Decorator
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/03/2018
  */
 public class BigTrousers extends Finery {

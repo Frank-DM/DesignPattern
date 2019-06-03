@@ -2,7 +2,7 @@ package com.frank.design.observermode.example;
 
 /**
  * NBA观察者
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:05/31/2019
  */
 public class NBAObserver implements IObserver {

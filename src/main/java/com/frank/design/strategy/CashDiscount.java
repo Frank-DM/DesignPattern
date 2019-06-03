@@ -3,7 +3,7 @@ package com.frank.design.strategy;
 /**
  * Stategy discount
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/02/2018
  */
 public class CashDiscount extends  CashSuper {

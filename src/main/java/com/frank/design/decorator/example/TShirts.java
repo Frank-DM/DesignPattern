@@ -4,7 +4,7 @@ import com.frank.design.decorator.demo.Decorator;
 
 /**
  * Concrete Decorator
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/03/2018
  */
 public class TShirts extends Finery {

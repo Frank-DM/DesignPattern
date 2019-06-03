@@ -3,7 +3,7 @@ package com.frank.design.TemplateMethod.Demo;
 /**
  * 测试客户端
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:05/23/2019
  */
 public  class MainClient {

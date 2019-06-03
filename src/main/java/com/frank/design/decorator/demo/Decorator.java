@@ -3,7 +3,7 @@ package com.frank.design.decorator.demo;
 /**
  * Abstarct decorator class
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/03/2018
  */
 public abstract class Decorator extends  DecoratorComponent{

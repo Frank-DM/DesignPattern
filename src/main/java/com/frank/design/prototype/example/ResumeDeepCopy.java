@@ -3,7 +3,7 @@ package com.frank.design.prototype.example;
 import java.io.*;
 
 /**
- * @AUTHOR:bsnpc1o
+ * @AUTHOR:Frank
  * @DATE:08/17/2018
  */
 public class ResumeDeepCopy implements Serializable{

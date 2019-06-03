@@ -2,7 +2,7 @@ package com.frank.design.TemplateMethod.Demo;
 
 /**
  *  模板方法模式父类，用于定义所有不变的行为，从而去除子类重复代码，提高代码复用性。
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:05/23/2019
  */
 public abstract class AbstractClass {

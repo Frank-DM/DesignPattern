@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @AUTHOR:bsnpc1o
+ * @AUTHOR:Frank
  * @DATE:08/24/2018
  */
 public class Product {

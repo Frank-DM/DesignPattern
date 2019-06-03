@@ -3,7 +3,7 @@ package com.frank.design.simplefactory;
 /**
  * Add operation
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/02/2018
  */
 public class AddOperation extends  CalOperation {

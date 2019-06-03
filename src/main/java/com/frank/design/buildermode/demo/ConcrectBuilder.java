@@ -1,7 +1,7 @@
 package com.frank.design.buildermode.demo;
 
 /**
- * @AUTHOR:bsnpc1o
+ * @AUTHOR:Frank
  * @DATE:08/24/2018
  */
 public class ConcrectBuilder extends Builder {

@@ -3,7 +3,7 @@ package com.frank.design.proxy.example;
 /**
  * Real Peruit:Real Subject
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/03/2018
  */
 public class Persuit implements GiveGift {

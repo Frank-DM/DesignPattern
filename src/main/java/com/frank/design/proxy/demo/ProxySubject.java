@@ -3,7 +3,7 @@ package com.frank.design.proxy.demo;
 /**
  * Proxy to Request
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/03/2018
  */
 public class ProxySubject implements Subject {

@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * 通知者：Boss类
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:05/31/2019
  */
 public class Boss implements Subject {

@@ -1,7 +1,7 @@
 package com.frank.design.prototype.demo;
 
 /**
- * @AUTHOR:bsnpc1o
+ * @AUTHOR:Frank
  * @DATE:08/17/2018
  */
 public class ConcretePrototype1 extends  Prototype {

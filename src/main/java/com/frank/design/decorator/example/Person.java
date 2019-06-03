@@ -3,7 +3,7 @@ package com.frank.design.decorator.example;
 /**
  * ConcreteComponent class
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/03/2018
  */
 public  class Person {

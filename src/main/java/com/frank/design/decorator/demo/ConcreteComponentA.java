@@ -1,7 +1,7 @@
 package com.frank.design.decorator.demo;
 
 /**
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/03/2018
  */
 public class ConcreteComponentA extends Decorator {

@@ -2,7 +2,7 @@ package com.frank.design.TemplateMethod.Demo;
 
 /**
  * 子类：对于父类方法的不同实现
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:05/23/2019
  */
 public class ConcreteClassB extends AbstractClass{

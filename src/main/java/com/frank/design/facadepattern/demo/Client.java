@@ -1,7 +1,7 @@
-package com.frank.design.facade.demo;
+package com.frank.design.facadepattern.demo;
 
 /**
- * @AUTHOR:bsnpc1o
+ * @AUTHOR:Frank
  * @DATE:08/20/2018
  */
 public class Client {

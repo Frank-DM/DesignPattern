@@ -3,7 +3,7 @@ package com.frank.design.strategy;
 /**
  * Caseh Super
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/02/2018
  */
 public abstract class CashSuper {

@@ -3,7 +3,7 @@ package com.frank.design.strategy;
 /**
  * Cash Receive Client
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/02/2018
  */
 public class CashReceive {

@@ -4,7 +4,7 @@ package com.frank.design.observermode.example;
 /**
  * 炒股观察者
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:05/31/2019
  */
 public class StockObserver implements IObserver {

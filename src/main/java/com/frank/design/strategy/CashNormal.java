@@ -3,7 +3,7 @@ package com.frank.design.strategy;
 /**
  * Cash normal
  *
- * @AUTHOR:BSNPC1O
+ * @AUTHOR:Frank
  * @DATE:08/02/2018
  */
 public class CashNormal extends  CashSuper{
